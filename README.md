@@ -1,6 +1,7 @@
 **My Desktop PC's NvChad Configuration**
 
 Will work to update this repo as I aggregate my config files between my different workspaces
+
 *i use macOS on my work laptop, asahi w/ hyprland on my home laptop, and endeavour w/ cosmic on here.. help*
 
 # Credits

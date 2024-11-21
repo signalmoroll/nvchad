@@ -1,8 +1,7 @@
-**This repo is supposed to used as config by NvChad users!**
+**My Desktop PC's NvChad Configuration**
 
-- The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
-- So you just import its modules , like `require "nvchad.options" , require "nvchad.mappings"`
-- So you can delete the .git from this repo ( when you clone it locally ) or fork it :)
+Will work to update this repo as I aggregate my config files between my different workspaces
+*i use macOS on my work laptop, asahi w/ hyprland on my home laptop, and endeavour w/ cosmic on here.. help*
 
 # Credits
 
